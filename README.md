@@ -1,4 +1,4 @@
-## Project Idea
+## Project Idea 💡 🌟
 
 This project consist of creating an Android App that will tell you how much cash you need to take from the cashier after giving them money...
 
